@@ -1,9 +1,13 @@
 ### Hello World 👋
 
+
+<a href="https://medium.com/@basecs101">
+  <img align="left" alt="Vikram Gupta Medium" width="40px" src="icons8-medium-64.png" />
+ 
+</a>
 </br>
 
 <div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
   <h2>⚡️ A Few Quick Info About me:--</h2>
   <ul>
     <li>🔭 I’m currently working on Large Scale Products handling millions of requests per second.</li>

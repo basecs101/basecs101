@@ -21,6 +21,6 @@
     <li>💬 Ping me or connect with me about <strong>Backend, Docker, Kubernetes, and Cloud/AWS</strong>.</li>
   </ul>
 </div>
-
+<a href=#><img src="contributions.svg"></a>
 </br>
 </br>

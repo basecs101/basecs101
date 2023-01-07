@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 
 <a href="https://www.linkedin.com/in/vikramguptavit/">
   <img align="left" alt="Vikram Gupta LinkedIn" width="40px" src="icons8-linkedin-circled-48.png" />

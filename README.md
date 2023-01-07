@@ -1,10 +1,13 @@
 ### Hello World 👋
 
+<a href="https://www.linkedin.com/in/vikramguptavit/">
+  <img align="left" alt="Vikram Gupta LinkedIn" width="40px" src="icons8-linkedin-circled-48.png" />
+</a>
 
 <a href="https://medium.com/@basecs101">
-  <img align="left" alt="Vikram Gupta Medium" width="40px" src="icons8-medium-64.png" />
- 
+  <img align="left" alt="Vikram Gupta Medium" width="40px" src="icons8-medium-64.png" /> 
 </a>
+
 </br>
 
 <div>
